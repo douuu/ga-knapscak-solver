@@ -1,0 +1,16 @@
+*.sln
+*.user
+*.filters
+*.vcxproj
+*.exe
+*.pdb
+*.ilk
+*.obj
+**/*.exe
+**/*.vcxproj
+**/*.filters
+**/*.user
+**/Debug/
+**/*.ipch
+**/*.db
+**/*.suo
