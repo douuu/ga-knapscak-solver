@@ -1,5 +1,5 @@
 
-#### Implementation of 1-0 Knapsack problem with using Genetic Algorithm for OneMax.
+#### Implementation of 1-0 Knapsack problem by using Genetic Algorithm for OneMax.
 
 References
 - 	https://amzn.to/3kK8Osd
